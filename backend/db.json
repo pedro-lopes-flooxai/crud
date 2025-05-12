@@ -1,14 +1,26 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "name": "Arthur Oliveira",
-            "email": "aoliveira@cod3r.com.br"
-        },
-        {
-            "id": 2,
-            "name": "Maria Julia da Silva",
-            "email": "mjds@empresa.com"
-        }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Oliveira",
+      "email": "aoliveira@cod3r.com.br",
+      "nome": "PEDRO"
+    },
+    {
+      "id": 2,
+      "name": "Maria Julia da Silva",
+      "email": "mjds@empresa.com",
+      "nome": "PEDRO"
+    },
+    {
+      "name": "Teste",
+      "email": "teste@teste.com",
+      "id": 3
+    },
+    {
+      "name": "TesteEditado",
+      "email": "testeEditado@teste.com",
+      "id": 4
+    }
+  ]
 }
